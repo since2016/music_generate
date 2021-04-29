@@ -1,0 +1,2 @@
+# music_generate
+用mido生成midi文件，再用musescore生成音频文件
